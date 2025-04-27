@@ -1,5 +1,5 @@
 # gm_demo
 This is my first Git Repository
 <br>
-Author_Ghulam (Mustafak)
+Author_Ghulam (Musta)
 
